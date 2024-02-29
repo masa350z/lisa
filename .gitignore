@@ -1,0 +1,6 @@
+build
+dist
+histdata/btcjpy_1m.csv
+dist.zip
+lisa.spec
+*.ai

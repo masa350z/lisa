@@ -1,0 +1,2 @@
+﻿exchange,api_key,secret_key,leverage,order,advantage,amount,emergency
+bitflyer,XXXXXXXXXX,1,LIMIT,0,0.01,0.2
